@@ -1,0 +1,50 @@
+# Copyright (C) 2020 Yordan Soares
+# This file is distributed under the same license as the States and Municipalities of Venezuela for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: States and Municipalities of Venezuela for WooCommerce 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/States-and-Municipalities-of-Venezuela-for-WooCommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-03-21T16:28:53-04:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.3.0\n"
+"X-Domain: states-and-municipalities-of-venezuela-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "States and Municipalities of Venezuela for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugins allows you to choose the States and Municipalities of Venezuela into the WooCommerce Options."
+msgstr ""
+
+#. Author of the plugin
+msgid "Yordan Soares"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://yordansoar.es/"
+msgstr ""
+
+#: includes/class-wc-venezuelan-municipalities-select.php:120
+#: includes/class-wc-venezuelan-municipalities-select.php:161
+msgid "Select a municipality&hellip;"
+msgstr ""
+
+#: municipalities/VE.php:13
+#: states-and-municipalities-of-venezuela-for-woocommerce.php:54
+msgid "Municipality"
+msgstr ""
+
+#: states-and-municipalities-of-venezuela-for-woocommerce.php:52
+msgid "State"
+msgstr ""
+
+#. translators: 1-4. Strong tags
+#: states-and-municipalities-of-venezuela-for-woocommerce.php:69
+msgid "%1$sStates and Municipalities of Venezuela for WooCommerce%2$s plugin requires %1$sWooCommerce%2$s activated. The plugin was deactivated until you active %1$sWooCommerce%2$s"
+msgstr ""

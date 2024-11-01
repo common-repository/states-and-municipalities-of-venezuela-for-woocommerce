@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/States-and-"
+"Municipalities-of-Venezuela-for-WooCommerce\n"
+"POT-Creation-Date: 2020-03-21T16:28:53-04:00\n"
+"PO-Revision-Date: 2020-04-29 20:51-0400\n"
+"Last-Translator: Yordan Soares <contacto@yordansoar.es>\n"
+"Language-Team: \n"
+"Language: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. Plugin Name of the plugin
+msgid "States and Municipalities of Venezuela for WooCommerce"
+msgstr "States and Municipalities of Venezuela for WooCommerce"
+
+#. Description of the plugin
+msgid ""
+"This plugins allows you to choose the States and Municipalities of Venezuela "
+"into the WooCommerce Options."
+msgstr ""
+"Este plugin te permite elegir los estados y municipios de Venezuela en las "
+"opciones de WooCommerce."
+
+#. Author of the plugin
+msgid "Yordan Soares"
+msgstr "Yordan Soares"
+
+#. Author URI of the plugin
+msgid "https://yordansoar.es/"
+msgstr "https://yordansoar.es/"
+
+#: includes/class-wc-venezuelan-municipalities-select.php:120
+#: includes/class-wc-venezuelan-municipalities-select.php:161
+msgid "Select a municipality&hellip;"
+msgstr "Selecciona un municipio&hellip;"
+
+#: municipalities/VE.php:13
+#: states-and-municipalities-of-venezuela-for-woocommerce.php:54
+msgid "Municipality"
+msgstr "Municipio"
+
+#: states-and-municipalities-of-venezuela-for-woocommerce.php:52
+msgid "State"
+msgstr "Estado"
+
+#. translators: 1-4. Strong tags
+#: states-and-municipalities-of-venezuela-for-woocommerce.php:69
+msgid ""
+"%1$sStates and Municipalities of Venezuela for WooCommerce%2$s plugin "
+"requires %1$sWooCommerce%2$s activated. The plugin was deactivated until you "
+"active %1$sWooCommerce%2$s"
+msgstr ""
+"El plugin %1$sEstados y Municipios de Venezuela para WooCommerce%2$s "
+"requiere que %1$sWooCommerce%2$s esté activo. El plugin se ha desactivado "
+"hasta que actives %1$sWooCommerce%2$s"
+
+#~ msgid "required"
+#~ msgstr "obligatorio"
